@@ -1,0 +1,5 @@
+#Exercise - Try out Git
+
+##Configure Git
+
+In a command line or in a Cloud Shell, to double check that Git is installed, type: __git --version__
